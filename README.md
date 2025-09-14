@@ -10,3 +10,6 @@ git remote -v (to verify)
 git branch (to check branch)
 git branch -M main(to rename branch)
 git push origin main
+
+
+*If*
